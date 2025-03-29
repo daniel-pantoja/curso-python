@@ -7,7 +7,10 @@ saque = 0
 print(f"Seu saldo R${saldo}")
 
 while saldo > 0:
-  saque = float(input("Informe o valor do saque: "))
+  saque = float(input("Informe o valor do saque (ou digite 0 para sair): "))
+  
+  if saque == 0:
+    break
   
   if saque > saldo:
     print("Saldo insuficiente! Saque não efetuado.")
@@ -15,3 +18,5 @@ while saldo > 0:
   else: 
     saldo -= saque
     print(f"Saque efetuado! Novo saldo R${saldo:.2f}")
+    
+print("Operação finalizada!")
