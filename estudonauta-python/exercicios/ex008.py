@@ -1,4 +1,5 @@
-# Escreva um programa que leia um valor em metros e o exiba convertido em centimetros e milimetros.
+# Escreva um programa que leia um valor em metros. 
+# exiba convertido em quilômetros, hectômetros, decâmetros, decímetros, centimetros e milimetros.
 
 medida = float(input('Uma distânia em metros: '))
 km = medida / 1000
