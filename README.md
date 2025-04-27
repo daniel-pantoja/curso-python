@@ -14,22 +14,20 @@ Além do Estudonauta, a **Comunidade Dev Completo** oferece uma abordagem práti
 Este repositório contém os materiais e exercícios do curso de Python. O curso é uma excelente introdução à linguagem Python, abordando desde os conceitos fundamentais até práticas de programação.
 
 ## Introdução
-
 O Python é uma linguagem de programação amplamente utilizada para desenvolvimento web, automação, análise de dados e inteligência artificial. Este curso proporciona uma base sólida para quem deseja aprender a programar e desenvolver aplicações versáteis.
 
 ## Tecnologias Utilizadas
-
 * Python
-
+* PyCharm 
+* Vs Code
 
 ## Ferramentas
-
-* Visual Studio Code
-* PyCharm
-* Console Python para testes e depuração
+* Foi instalada a linguagem [Python](https://www.python.org/downloads/) na versão 3.13.2.
+* [Visual Studio Code](https://code.visualstudio.com/): Para desenvolvimento em Python. Possui extensões que facilitam a programação e depuração.
+* [PyCharm](https://www.jetbrains.com/pycharm/): Desenvolvimento integrado (IDE) específico para Python.
+* Console Python: Ferramenta para testes e depuração de códigos Python em tempo real, permitindo a execução imediata de comandos e scripts.
 
 ## Conceitos nos Primeiros Passos
-
 * **Lógica de Programação**: 
   - Compreenda os fundamentos da lógica de programação, que envolve a criação de algoritmos e a resolução de problemas de forma estruturada.
   - Aprenda a decompor problemas complexos em etapas menores e desenvolver raciocínio lógico para a criação de soluções eficientes.
@@ -53,17 +51,14 @@ O Python é uma linguagem de programação amplamente utilizada para desenvolvim
   - Entenda a diferença entre funções e métodos, e como utilizá-los em classes para implementar a Programação Orientada a Objetos (POO) em Python.
 
 ## Exercícios
-
 O repositório inclui diversos exercícios práticos para reforçar o aprendizado. Os exercícios estão organizados em pastas conforme os módulos do curso.
 
 ## Boas Práticas de Programação
-
 * Utilizar nomes de variáveis descritivos
 * Manter o código organizado e comentado
 * Seguir a lógica de programação e evitar duplicação de código
 
 ## Outros Conceitos de Python
-
 * Estruturas de Dados (listas, dicionários, tuplas)
 * Manipulação de Arquivos
 * Programação Orientada a Objetos
