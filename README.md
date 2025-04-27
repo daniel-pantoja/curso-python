@@ -2,7 +2,15 @@
 <br>
 <h2> Este foi o aprendizado no Curso Python do Estudonauta e da Comunidade Dev Completo </h2>
 <p> Estudos sobre a linguagem de programação Python. </p>
+O Estudonauta oferece um curso abrangente de Python. O curso é dividido em módulos que abrangem os fundamentos essenciais da programação em Python, incluindo:
 
+  * **Python: Fundamentos :** Apresenta os conceitos básicos da linguagem, como sintaxe, tipos de dados e variáveis, preparando o terreno para um aprendizado mais avançado.
+
+  * **Python: Estruturas de Controle :** Este módulo foca nas estruturas que permitem controlar o fluxo do programa, como condicionais e loops, essenciais para a criação de algoritmos eficazes.
+
+  * **Python: Estruturas Compostas :** Explora estruturas de dados mais complexas, como listas, dicionários e tuplas, que são fundamentais para a manipulação de coleções de dados.
+
+Além do Estudonauta, a **Comunidade Dev Completo** oferece uma abordagem prática à lógica de programação com Python. Este segmento do curso enfatiza a construção de algoritmos e a resolução de problemas, ajudando a desenvolver um raciocínio lógico robusto e a aplicar conceitos de programação de forma eficiente.
 Este repositório contém os materiais e exercícios do curso de Python. O curso é uma excelente introdução à linguagem Python, abordando desde os conceitos fundamentais até práticas de programação.
 
 ## Introdução
