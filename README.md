@@ -28,27 +28,18 @@ O Python é uma linguagem de programação amplamente utilizada para desenvolvim
 * Console Python: Ferramenta para testes e depuração de códigos Python em tempo real, permitindo a execução imediata de comandos e scripts.
 
 ## Conceitos nos Primeiros Passos
-* **Lógica de Programação**: 
-  - Compreenda os fundamentos da lógica de programação, que envolve a criação de algoritmos e a resolução de problemas de forma estruturada.
-  - Aprenda a decompor problemas complexos em etapas menores e desenvolver raciocínio lógico para a criação de soluções eficientes.
-
-* **Variáveis e Tipos de Dados**: 
-  - Descubra como declarar e utilizar variáveis para armazenar dados, permitindo que seu programa manipule informações dinâmicas.
-  - Explore os diferentes tipos de dados em Python, como **inteiros**, **floats**, **strings** e **booleanos**, e como escolher o tipo apropriado de acordo com a necessidade.
-
-* **Operadores**: 
-  - Examine os diversos operadores disponíveis em Python, incluindo:
-    - **Operadores Aritméticos**: Para realizar cálculos matemáticos, como soma (+), subtração (-), multiplicação (*) e divisão (/).
-    - **Operadores de Comparação**: Para comparar valores, como maior que (>), menor que (<), igual a (==) e diferente de (!=).
-    - **Operadores Lógicos**: Para combinar condições, como `and`, `or` e `not`, permitindo construir expressões complexas.
-
-* **Estruturas de Controle**: 
-  - Desenvolva a habilidade de controlar o fluxo do programa utilizando estruturas condicionais, como `if`, `elif` e `else`, para tomar decisões com base nas condições estabelecidas.
-  - Explore loops, como `for` e `while`, para executar ações repetidamente, permitindo iterar sobre coleções e automatizar tarefas.
-
-* **Funções e Métodos**: 
-  - Descubra como criar funções para organizar o código em blocos reutilizáveis, definindo parâmetros e retornando resultados conforme a necessidade.
-  - Entenda a diferença entre funções e métodos, e como utilizá-los em classes para implementar a Programação Orientada a Objetos (POO) em Python.
+* Lógica de Programação
+* Algoritmos
+* Variáveis e Tipos de Dados: 
+  - inteiros, floats, strings e booleanos
+* Operadores: 
+  - Operadores Aritméticos
+  - Operadores de Comparação
+  - Operadores Lógicos
+* Estruturas de Controle: 
+  - `if`, `elif` e `else`
+  - loops, como `for` e `while`
+* Funções e Métodos
 
 ## Exercícios
 O repositório inclui diversos exercícios práticos para reforçar o aprendizado. Os exercícios estão organizados em pastas conforme os módulos do curso.
